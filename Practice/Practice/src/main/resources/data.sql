@@ -1,0 +1,6 @@
+insert into user values(10,'Bhandup',sysdate(),'Ravi')
+insert into user values(20,'Borivali',sysdate(),'Aditi')
+insert into user values(33,'Airoli',sysdate(),'Monty')
+insert into post values(11,'First Post',10)
+insert into post values(22,'Second Post',10)
+insert into post values(33,'First Post',33)
